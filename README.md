@@ -26,7 +26,7 @@
 0. verify the installation of flutter and dart by running the following commands in the terminal
 
 ```bash
-    flutter doctor
+flutter doctor
 ```
 
 1. Clone the repository
@@ -36,18 +36,18 @@
 3. Create android, ios, linux, macos, web, windows and test directories in the root of the project
 
 ```bash
-    flutter create .
+flutter create .
 ```
 
 4. Install the required packages
 
 ```bash
-    flutter pub get
+flutter pub get
 ```
 5. Run the app
 
 ```bash
-    flutter run
+flutter run
 ```
 
 ## Other Useful Commands
@@ -55,19 +55,18 @@
 Agree to the licenses
 
 ```bash
-    flutter doctor --android-licenses
+flutter doctor --android-licenses
 ```
 
 For creating a new flutter project
 
 ```bash
-    flutter create project_name
+flutter create project_name
 ```
 Ctrl+Shift+P in vscode and select `Flutter: New Project` to create a new flutter project
 
 See device list
 
 ```bash
-    flutter devices
+flutter devices
 ```
-pruebita
